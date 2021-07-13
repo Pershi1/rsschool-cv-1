@@ -19,7 +19,7 @@ My aim is to become experienced professional, who is able to solve any issue in 
 
 ### Code exeples
 
-````<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,6 +39,7 @@ My aim is to become experienced professional, who is able to solve any issue in 
           
     </body>
 </html>
+```
 
 ### English
 
