@@ -39,3 +39,7 @@ My aim is to become experienced professional, who is able to solve any issue in 
           
     </body>
 </html>
+
+### English
+
+My english level is A2, but I can easily read documentation and technical literature.
