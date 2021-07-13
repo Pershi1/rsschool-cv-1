@@ -1,2 +1,1 @@
-# rsschool-cv
-firs repository
+https://macbew.github.io/rsschool-cv/cv
