@@ -2,8 +2,8 @@
 
 ### Contacts:
 
-*Email: mikhailtest88@gmail.com
-*Tel, Viber, Telegramm: +375298203432
+    -Email: mikhailtest88@gmail.com
+    -Tel, Viber, Telegramm: +375298203432
 
 ### About me
 
@@ -12,10 +12,10 @@ my educational path. I want to be Front-end developer.
 My aim is to become experienced professional, who is able to solve any issue in a unique and quality manner.
 
 ### Skills
--HTML
--CSS
--JavaScript
--Git
+    -HTML
+    -CSS
+    -JavaScript
+    -Git
 
 ### Code exeples
 
